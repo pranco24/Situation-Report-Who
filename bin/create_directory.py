@@ -5,7 +5,7 @@ import locale
 import os.path as path
 #locale.setlocale(locale.LC_ALL, 'es-MX')
 main_path = path.abspath(path.join(__file__ ,"../../"))
-dias_atraso = 0
+dias_atraso = 1
 
 yesterday = (datetime.now()-timedelta(days=dias_atraso)).strftime('%Y%m%d')
 directory_today = main_path +'/dir/'+ yesterday
