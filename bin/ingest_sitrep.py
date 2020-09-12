@@ -4,7 +4,6 @@ import csv
 import create_directory
 import functions
 import os.path as path
-import numpy as np
 
 main_path =  path.abspath(path.join(__file__ ,"../../"))
 
