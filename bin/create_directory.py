@@ -10,8 +10,6 @@ dias_atraso = 0
 yesterday = (datetime.now()-timedelta(days=dias_atraso)).strftime('%Y%m%d')
 directory_today = main_path +'/dir/'+ yesterday
 
-
-
 yesterday_format=(datetime.now()-timedelta(days=dias_atraso)).strftime('%Y-%m-%d')
 yesterday_text = (datetime.now()-timedelta(days=dias_atraso)).strftime('%d de %B de %Y')
 try:
