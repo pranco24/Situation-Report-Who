@@ -4,6 +4,7 @@ import csv
 import create_directory
 import functions
 import os.path as path
+import numpy as np
 
 main_path =  path.abspath(path.join(__file__ ,"../../"))
 
@@ -112,7 +113,7 @@ for i in range(len(cases)):
     # defunciones nuevas y acumuladas
     cases_csv.append(
         [paises[i][2], cases[i][4], cases[i][5], cases[i][6], cases[i][7]])
-        
+
 ################################################################################################################
         #   EXTRAEMOS Y CONSTRUIMOS UNA LISTA CON LOS ELEMENTOS PARA CREAR EL CSV DE CONTEOS TOTALES  (GLOBAL)
 #################################################################################################################
