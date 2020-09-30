@@ -82,6 +82,8 @@ for i in range(len(csv_sabana)):
 
 # Nos aseguramos de que la lista de población de la sabana principal no tenga valores nulos
 poblacion_csv = [0 if x != x else x for x in poblacion]
+
+
 ################################################################################################################
         #   EXTRAEMOS Y CONSTRUIMOS UNA LISTA CON LOS ELEMENTOS NECESARIOS PARA CREAR EL CSV DE CASOS DE LA OMS (MAPA)
 #################################################################################################################
