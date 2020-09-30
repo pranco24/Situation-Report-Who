@@ -44,7 +44,7 @@ os.getcwd()
 os.chdir(main_path+'/dir/' + yesterday)
 
 file_cases = "https://covid19.who.int/WHO-COVID-19-global-data.csv"
-file_sabana = main_path +"/bin/Sabana_Poblacion2.csv"
+file_sabana = main_path +"/bin/sabana_poblacion_bd.csv"
 ################################################################################################################
         #   CREAMOS LOS DATAFRAME CON PANDAS
 #################################################################################################################
