@@ -13,7 +13,7 @@ AW,Aruba,AMRO,106766,19,América
 AU,Australia,WPRO,25499881,33,Oceanía
 AT,Austria,EURO,9006400,59,Europa
 AZ,Azerbaiyán,EURO,10139175,158,Asia
-BS,Bahamas,AMRO,393248,34,África
+BS,Bahamas,AMRO,393248,34,América
 BH,Bahréin,EMRO,1701583,103,Asia
 BD,Bangladesh,SEARO,164689383,163,Asia
 BB,Barbados,AMRO,287371,35,América
@@ -115,7 +115,7 @@ KW,Kuwait,EMRO,4270563,29,Asia
 KG,Kirguistán,EURO,6524191,216,Asia
 LA,República Democrática Popular Lao,WPRO,7275556,155,Asia
 LV,Letonia,EURO,1886202,195,Europa
-LB,Líbano,EMRO,6825442,82,Europa
+LB,Líbano,EMRO,6825442,82,Asia
 LS,Lesoto,AFRO,2142252,44,África
 LR,Liberia,AFRO,5057677,63,África
 LY,Libia,EMRO,6871287,185,África
@@ -219,7 +219,7 @@ TR,Turquía,EURO,84339067,,Asia
 TM,Turkmenistán,EURO,6031187,,Asia
 TC,Islas Turcas y Caicos,AMRO,38718,,América
 TV,Tuvalu,WPRO,11792,,Oceanía
-UG,Uganda,AFRO,45741,,África
+UG,Uganda,AFRO,45741000,,África
 UA,Ucrania,EURO,43733759,,Europa
 AE,Emiratos Árabes Unidos,EMRO,9890400,,Asia
 TZ,República Unida de Tanzania,AFRO,59734213,,África
