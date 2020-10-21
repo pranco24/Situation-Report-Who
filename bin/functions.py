@@ -1,5 +1,5 @@
 import csv,json
-from pymongo import MongoClient
+#from pymongo import MongoClient
 
 def extraer_globales(list,reg):
     #List tiene la tupla y reg el registro del continente actual (7 en total)
