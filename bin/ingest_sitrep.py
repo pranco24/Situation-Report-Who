@@ -92,9 +92,9 @@ poblacion_csv = [0 if x != x else x for x in poblacion]
 
 for i in range(len(cases)):
     poblacion_csv.append(poblacion_csv[i])
-    tasa_mortalidad.append(round((cases[i][7] / poblacion[i]) * 100000, 2))
+    tasa_mortalidad.append(round((cases[i][7] / poblacion[i]) * 1000000, 2))
     espacios.append('')
-    incidencia.append(round((cases[i][5] / poblacion[i]) * 100000, 2))
+    incidencia.append(round((cases[i][5] / poblacion[i]) * 1000000, 2))
 
     # Revisamos que las siguientes listas no tengan valores nulos nan
     paises_esp = ['' if x != x else x for x in paises_esp]
